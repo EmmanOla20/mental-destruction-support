@@ -20,7 +20,6 @@ The site is intentionally simple:
 
 ## 🌐 Live Site
 [Visit Mental Destruction Support](https://EmmanOla20.github.io/mental-destruction-support/)  
-*(Replace this link with your actual GitHub Pages URL once deployed)*
 
 ## 💡 Contributions
 All improvement ideas and purposeful criticism are welcome.  
